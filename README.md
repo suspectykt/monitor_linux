@@ -1,2 +1,2 @@
 RUN
-bash <(curl -fsSL https://github.com/suspectykt/monitor_linux/blob/main/monitor.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/suspectykt/monitor_linux/refs/heads/main/monitor.sh)
